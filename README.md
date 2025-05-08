@@ -39,22 +39,9 @@ A pizza ordering web application allowing users to explore a catalog, customize 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/manan011)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:mananagarwal1103@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/manan011)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&style=for-the-badge)](https://twitter.com/YOUR_HANDLE)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/YOUR_HANDLE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-24292E?logo=firefox-browser&logoColor=white&style=for-the-badge)](https://manan011.github.io/)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/manan011">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:mananagarwal1103@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
-  </a>
-  <a href="https://github.com/manan011">
-    <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white&style=for-the-badge" alt="GitHub Badge"/>
-  </a>
-  <a href="https://twitter.com/YOUR_HANDLE">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
-  </a>
-</p>
 
 
 ---
