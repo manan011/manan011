@@ -34,6 +34,10 @@ A pizza ordering web application allowing users to explore a catalog, customize 
 - 💼 [Portfolio](https://portfolio-mananagarwal.vercel.app/)
 - 🐙 [GitHub](https://github.com/manan011)
 - [Twitter](https://twitter.com/manan011)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/manan011)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:mananagarwal1103@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/manan011)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&style=for-the-badge)](https://twitter.com/YOUR_HANDLE)
 
 ---
 
