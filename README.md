@@ -29,11 +29,11 @@ A pizza ordering web application allowing users to explore a catalog, customize 
 
 ## 📫 Connect with Me
 
-- **📧Email:** [mananagarwal1103@gmail.com](mailto:mananagarwal1103@gmail.com)
+- 📧 [Email](mailto:mananagarwal1103@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/manan011)
 - 💼 [Portfolio](https://portfolio-mananagarwal.vercel.app/)
 - 🐙 [GitHub](https://github.com/manan011)
-- **Twitter:** [@manan011](https://twitter.com/manan011)
+- [Twitter](https://twitter.com/manan011)
 
 ---
 
@@ -42,12 +42,6 @@ A pizza ordering web application allowing users to explore a catalog, customize 
 - Backend Development
 - Cloud Computing
 - DevOps Practices
-
----
-
-## 📈 GitHub Stats
-
-![Manan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manan011&show_icons=true&theme=radical)
 
 ---
 
