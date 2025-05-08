@@ -2,27 +2,41 @@
 
 Welcome to my GitHub profile! I'm passionate about technology, coding, and constantly learning new things. Here's a bit about me:
 
+🎯 **Frontend Developer | React.js Enthusiast | AI Learner**
+
+📍 Noida, Uttar Pradesh, India
+
+---
+
 ## 🛠️ Technologies & Tools
-- **Languages:** Python, JavaScript, TypeScript, Java, C++
-- **Frameworks/Libraries:** React, Node.js, Express, Django, Flask
+- **Languages:**  JavaScript (ES6+), TypeScript, Java, Python
+- **Frontend:** React.js, HTML5, CSS3, Tailwind CSS, Redux Toolkit
+- **Backend:** Node.js, Express.js (Learning)
 - **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools:** Git, Docker, Kubernetes, Jenkins, AWS, Azure
-- **IDEs:** VSCode, PyCharm, IntelliJ IDEA
+- **Tools:** Git, GitHub, VS Code, NPM, Postman
 
-## 🔭 Projects
-- **[Project 1](https://github.com/manan011/project1):** Brief description of project 1.
-- **[Project 2](https://github.com/manan011/project2):** Brief description of project 2.
-- **[Project 3](https://github.com/manan011/project3):** Brief description of project 3.
+---
 
-## 🌱 Currently Learning
-- Advanced Kubernetes
-- Machine Learning with TensorFlow
-- Rust Programming Language
+## 🛠️ Projects
 
-## 📫 How to Reach Me
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [linkedin.com/in/manan011](https://www.linkedin.com/in/manan011)
+### [Film Vault](https://film-vault-git-main-manan011s-projects.vercel.app/)
+An IMDb-like movie browsing app with a persistent, searchable watchlist and genre-based filtering.
+
+### [Pizzeria](https://github.com/manan011/pizzeria)
+A pizza ordering web application allowing users to explore a catalog, customize orders, and view a dynamically updated cart.
+
+---
+
+## 📫 Connect with Me
+
+- **📧Email:** [mananagarwal1103@gmail.com](mailto:mananagarwal1103@gmail.com)
+- **🔗LinkedIn:** [LinkedIn](https://www.linkedin.com/in/manan011)
+- 💼 [Portfolio](https://portfolio-mananagarwal.vercel.app/)
+- 🐙 [GitHub](https://github.com/manan011)
 - **Twitter:** [@manan011](https://twitter.com/manan011)
+
+---
+
 
 ## ⚡ Fun Fact
 - I love hiking and exploring new trails during the weekends.
