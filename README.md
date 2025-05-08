@@ -30,17 +30,25 @@ A pizza ordering web application allowing users to explore a catalog, customize 
 ## 📫 Connect with Me
 
 - **📧Email:** [mananagarwal1103@gmail.com](mailto:mananagarwal1103@gmail.com)
-- **🔗LinkedIn:** [LinkedIn](https://www.linkedin.com/in/manan011)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/manan011)
 - 💼 [Portfolio](https://portfolio-mananagarwal.vercel.app/)
 - 🐙 [GitHub](https://github.com/manan011)
 - **Twitter:** [@manan011](https://twitter.com/manan011)
 
 ---
 
+## 📚 Currently Learning
 
-## ⚡ Fun Fact
-- I love hiking and exploring new trails during the weekends.
+- Backend Development
+- Cloud Computing
+- DevOps Practices
 
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+---
 
-![Manan's GitHub stats](https://github-readme-stats.vercel.app/api?username=manan011&show_icons=true&theme=radical)
+## 📈 GitHub Stats
+
+![Manan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manan011&show_icons=true&theme=radical)
+
+---
+
+Thank you for visiting my profile!
