@@ -39,7 +39,7 @@ A pizza ordering web application allowing users to explore a catalog, customize 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/manan011)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:mananagarwal1103@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/manan011)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/manan011)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/Manan__Agarwal)
 [![Portfolio](https://img.shields.io/badge/Portfolio-24292E?logo=firefox-browser&logoColor=white&style=for-the-badge)](https://portfolio-mananagarwal.vercel.app/)
 
 
