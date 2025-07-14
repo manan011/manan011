@@ -22,6 +22,12 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and const
 ### [Film Vault](https://film-vault-git-main-manan011s-projects.vercel.app/)
 An IMDb-like movie browsing app with a persistent, searchable watchlist and genre-based filtering.
 
+###[Paste App](https://paste-app-manan011s-projects.vercel.app/)
+Paste App is a simple and intuitive note-taking web application that allows users to create, view, edit, delete, copy, and search through their notes (referred to as "pastes").
+
+###[World Atlas](https://world-atlas-dun.vercel.app/)
+Interactive world map platform offering country-wise data, real-time filtering, and a contact form.
+
 ### [Pizzeria](https://github.com/manan011/pizzeria)
 A pizza ordering web application allowing users to explore a catalog, customize orders, and view a dynamically updated cart.
 
